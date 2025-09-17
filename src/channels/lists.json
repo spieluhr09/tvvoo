@@ -33810,7 +33810,7 @@
     "category": "News"
   },
   {
-    "name": "DECASA",
+    "name": "CANALDECASA",
     "country": "Spain",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/decasa-es.png",
     "category": "News"
@@ -33962,7 +33962,7 @@
   {
     "name": "CRIME &amp; INVESTIGATION",
     "country": "Spain",
-    "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/crime-and-investigation-uk.png",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/crime-and-investigation-uk.png",
     "category": "Documentary"
   },
   {
@@ -34128,7 +34128,7 @@
     "category": "Movies"
   },
   {
-    "name": "Vin TV",
+    "name": "ENFAMILIA",
     "country": "Spain",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_de_VinTV.png/640px-Logo_de_VinTV.png",
     "category": "Movies"
@@ -34470,7 +34470,7 @@
     "category": "Sport"
   },
   {
-    "name": "M.INDIE HD",
+    "name": "M.ESTRENOS HD",
     "country": "Spain",
     "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/indie-por-movistar-plus-es.png",
     "category": "Movies"
